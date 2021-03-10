@@ -1,3 +1,3 @@
-ovo je prva linija teksta.
+
 ovo je druga linija teksta.
 ovo je treca linija teksta.
