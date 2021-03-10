@@ -1,2 +1,1 @@
-ovo je prva linija teksta.
-ovo je druga linija teksta.
+ovo nema veze sa predhodnim tekstom.
